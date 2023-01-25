@@ -5,6 +5,9 @@ function sortArray(arr){
 
 
 }
+let myArray = ["R", "fP", "AQ", "L"];
+myArray.sort();
+console.log(myArray);
 
 console.log(arr)
 
